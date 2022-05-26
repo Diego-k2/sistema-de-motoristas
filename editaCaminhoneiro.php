@@ -76,11 +76,11 @@
 
 					<div class="text-center p-t-115">
 						<span class="txt1">
-							Tem uma conta?
+							Não quer alterar ?
 						</span>
 
-						<a class="txt2" href="index.php">
-							Acesse aqui
+						<a class="txt2" href="lista_caminhoneiros/lista_caminhoneiros_admin.php">
+							Clique aqui
 						</a>
 					</div>
 				</form>
